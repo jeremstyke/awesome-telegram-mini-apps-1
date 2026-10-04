@@ -305,6 +305,7 @@
 - [Spica 🚀](https://t.me/SpicaFund) — Level Up with Spica Energy Kits, Earn Points and Join Launchpads!
 - [JackDaw Flip](https://t.me/JackdawFlipbot) — JackDaw Flip: An innovative platform for social interaction and income. Join us now!
 - [Classic Multiplayer](https://classic.ton-game.com) — Have fun with friends
+- [Daily Score](https://t.me/DailyScorefootbot/play) - Free football prediction game: guess the score of one big match a day, leagues with friends, 9 languages
 
 ## Finance
 
